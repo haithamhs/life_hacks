@@ -10,4 +10,4 @@ This repo for RANDOM life_kacks THINGS
 
 ## life_hacks - to keep in mind 
 * [Travel tips](travel.md)
-* [Miscellaneous tips](misc.md)
+* [Miscellaneous tips](misce.md)
